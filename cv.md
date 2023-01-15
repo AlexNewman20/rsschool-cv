@@ -25,6 +25,7 @@ I am good person who wants become fe dev
 + Editors: VSCode
 ## Code exemples
 ***
+![code](/images/exemplecode.jpg "Exemple of code")
 ## Education
 ***
 * Odessа Polytechnic National University
